@@ -19,5 +19,3 @@
 ### <span style="color:white; font-weight: 600; font-size: 1.2rem">Skilled e-learning landing page</span>
 
 - <a href="https://viniciusshenri96.github.io/skilled/">Preview Site</a> - <a href="https://github.com/viniciusshenri96/skilled/">Repositório</a>
-
-#### Inspirado no repositório de <a href="https://github.com/catherineisonline/all-projects-directory">catherineisonline.</a>
