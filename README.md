@@ -103,5 +103,3 @@
 - <a href="https://github.com/catherineisonline/rest-countries">Where in the world<a/> - countries data page along with color theme switcher made with HTML, CSS, React & API -->
 
 ---
-
-#### Inspirado no repositório de <a href="https://github.com/catherineisonline/all-projects-directory">catherineisonline.</a>
