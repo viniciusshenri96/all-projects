@@ -28,10 +28,6 @@
 
 - <a href="https://viniciusshenri96.github.io/stats-preview-card-component/">Preview Site</a> - <a  href="https://github.com/viniciusshenri96/stats-preview-card-component">Repositório</a>
 
-### <span style="color:white; font-weight: 600; font-size: 1.2rem">Skilled e-learning landing page</span>
-
-- <a href="https://viniciusshenri96.github.io/skilled/">Preview Site</a> - <a href="https://github.com/viniciusshenri96/skilled/">Repositório</a>
-
 ### <p>Social proof section</p>
 
 - <a href="https://viniciusshenri96.github.io/social-proof-section-master/">Preview Site</a> - <a  href="https://github.com/viniciusshenri96/social-proof-section-master">Repositório</a>
